@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-02-03T03:52:33-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Di-fusão Now All</title><subtitle>Textos que chegaram através do homem nawal, arhat, tathāgata, jīvanmukti, yogi,
+ Nuvem Que Passa, Cavalo de Fogo, Alex Sed Rex, Júlio César Guerrero, bhagavatam,
+ samadhi, moksha, mukti, nivarana, nirvana, satori, kensho, bodhi, jnana, atma jnana,
+ Wu, 悟 , kototama, kotodama, 言霊 , 言魂 , mushin, 無心 , sat chit ananda, advaita vedanta,
+ sanatana dharma, liberdade, aventura, vida longa, ॐ</subtitle><entry><title type="html">Lançamento BruMaX!</title><link href="http://localhost:4000/jekyll/update/2025/02/02/lancamento-brumax.html" rel="alternate" type="text/html" title="Lançamento BruMaX!" /><published>2025-02-02T23:45:08-03:00</published><updated>2025-02-02T23:45:08-03:00</updated><id>http://localhost:4000/jekyll/update/2025/02/02/lancamento-brumax</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/02/02/lancamento-brumax.html"><![CDATA[<p>O livro digital gratuito BruMaX, escrito por Nuvem Que Passa acaba de ser lançado.</p>
+
+<!-- `YEAR-MONTH-DAY-title.MARKUP` -->
+
+<p>Indicado para iniciantes, este é o primeiro livro a ser publicado sob os auspícios da família Guerrero. A seguir serão publicados o Pergaminho Hãnumânico assim como o Pergaminho Único, ambos em formato digital para distribuição gratuita.</p>
+
+<!-- Jekyll also offers powerful support for code snippets: -->
+
+<p>Acesse o developer <a href="https://github.com/uni-om">uni-om</a></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[O livro digital gratuito BruMaX, escrito por Nuvem Que Passa acaba de ser lançado.]]></summary></entry><entry><title type="html">Mãos à Obra!</title><link href="http://localhost:4000/jekyll/update/2025/02/02/maos-a-obra.html" rel="alternate" type="text/html" title="Mãos à Obra!" /><published>2025-02-02T23:45:08-03:00</published><updated>2025-02-02T23:45:08-03:00</updated><id>http://localhost:4000/jekyll/update/2025/02/02/maos-a-obra</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/02/02/maos-a-obra.html"><![CDATA[<p>O texto aqui se encontra na pasta <code class="language-plaintext highlighter-rouge">_posts</code> . Edite e reconstrua o site para ver as mudaças.</p>
+
+<!-- 
+
+You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+Jekyll requires blog post files to be named according to the following format:
+
+`YEAR-MONTH-DAY-title.MARKUP`
+
+Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+Jekyll also offers powerful support for code snippets:
+
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+ -->
+
+<p>Acesse o developer <a href="https://github.com/uni-om">uni-om</a>
+Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[O texto aqui se encontra na pasta _posts . Edite e reconstrua o site para ver as mudaças.]]></summary></entry></feed>
