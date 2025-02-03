@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lançamento BruMaX!"
-date:   2025-02-03 23:45:08 -0300
+date:   2025-02-02 23:45:08 -0300
 categories: jekyll update
 ---
 O livro digital gratuito BruMaX, escrito por Nuvem Que Passa acaba de ser lançado.
