@@ -18,10 +18,9 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 
 &emsp;• "A Chefa", vulga Dona Águia, Mar Escuro da Consciência, A Poderéia Nawaléia, Aquela / Aquele / <ins>Aquilo que está disfarçado</ins> (*Nawal* na língua Nahuatl)
 
-<br />
+
 <br />&emsp;Suporte:
-<br />
-<br />&emsp;• Aliados da Humanidade
+&emsp;• Aliados da Humanidade
 <br />
 <br />&emsp;• Parentas e Parentes - Flora e Fauna, Micro e Macro
 <br />
@@ -40,7 +39,7 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 <br />&emsp;•  梅馬麗亞 Moy Malayá (Maria Cristina Azevedo)
 
 <br />&emsp;Nas Comportas Segurando a Onda:
-<br />&emsp;• LuxCia & F.A.
+<br />&emsp;• LuxCia & F.A. [Pistas do Caminho]
 
 <br />&emsp;Na Senzala Ralando o Coro:
 <br />&emsp;• ☥ Bella & Hãnú
@@ -56,3 +55,4 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 [Jekyll]:    https://jekyllrb.com/
 [Ruby]:      https://www.ruby-lang.org/pt/
 [GitHub]:    https://github.com/github
+[Pistas do Caminho]: https://pistasdocaminho.blogspot.com/
