@@ -16,8 +16,3 @@ Indicado para iniciantes, este é o primeiro livro a ser publicado sob os auspí
 Jekyll also offers powerful support for code snippets:
 {:/comment}
 
-
-
-Acesse o developer [uni-om]
-
-[uni-om]:      https://github.com/uni-om
