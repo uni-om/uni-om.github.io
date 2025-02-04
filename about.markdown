@@ -20,6 +20,8 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 
 <br />
 <br />&emsp;Suporte:
+
+<br />
 <br />&emsp;• Aliados da Humanidade
 <br />
 <br />&emsp;• Parentas e Parentes - Flora e Fauna, Micro e Macro
