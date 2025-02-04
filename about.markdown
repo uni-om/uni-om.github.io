@@ -18,9 +18,8 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 
 &emsp;• "A Chefa", vulga Dona Águia, Mar Escuro da Consciência, A Poderéia Nawaléia, Aquela / Aquele / <ins>Aquilo que está disfarçado</ins> (*Nawal* na língua Nahuatl)
 
-
+<br />
 <br />&emsp;Suporte:
-
 <br />&emsp;• Aliados da Humanidade
 <br />
 <br />&emsp;• Parentas e Parentes - Flora e Fauna, Micro e Macro
