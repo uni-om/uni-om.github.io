@@ -3,8 +3,12 @@ layout: page
 title: Recomendações
 ---
 
-Naga Baba Rampuri Ji
+[Naga Baba Rampuri Ji]
 
-Tchái Txana Ixã
+[Tchái Txana Ixã]
 
-Ailton Krenak
+[Ailton Krenak]
+
+[Naga Baba Rampuri Ji]:https://www.youtube.com/watch?v=IFM-4slItSc
+[Tchái Txana Ixã]:https://www.youtube.com/watch?v=LCO1GyQUJzg
+[Ailton Krenak]:https://www.youtube.com/watch?v=GIz0hRuRXqc
