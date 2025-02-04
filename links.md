@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recomendações
+title: Links
 ---
 
 [Naga Baba Rampuri Ji]
