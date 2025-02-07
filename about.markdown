@@ -24,7 +24,7 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 <br />
 <br />&emsp;• Parentas e Parentes - Flora e Fauna, Micro e Macro
 <br />
-<br />&emsp;• Avó Lua - Chandra Yá-Ú
+<br />&emsp;• Avó Lua - Chandra / Srta. Chandika Devī
 <br />
 <br />&emsp;• Planeta Água - Pacha Mana Amatsukami Pritvi / Srta. Bhūmi Devī
 <br />
