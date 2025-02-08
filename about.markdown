@@ -39,7 +39,7 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 <br />&emsp;•  梅馬麗亞 Moy Malayá (Maria Cristina Azevedo)
 
 <br />&emsp;Nas Comportas Segurando a Onda:
-<br />&emsp;• LuxCia & F.A. [Pistas do Caminho]
+<br />&emsp;• LuxCia & F.A. #[Pistas do Caminho]
 
 <br />&emsp;Na Senzala Ralando o Coro:
 <br />&emsp;• ☥ Bella & Hãnú
@@ -55,4 +55,4 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 [Jekyll]:    https://jekyllrb.com/
 [Ruby]:      https://www.ruby-lang.org/pt/
 [GitHub]:    https://github.com/github
-[Pistas do Caminho]: https://pistasdocaminho.blogspot.com/
+#[Pistas do Caminho]: https://pistasdocaminho.blogspot.com/
