@@ -3,23 +3,23 @@ layout: page
 title: Links
 ---
 
-[Tchái Txana Ixã]
+[Tchái Txana Ixã] 50 segundos
 
-[Ailton Krenak]
+[Ailton Krenak]   59 segundos
 
-[Swami SarvaPryAnanda]
+[Swami SarvaPryAnanda] 35 segundos
 
-[Naga Baba Rampuri Ji]
+[Sri Mahant Naga Baba Rampuri Ji] 4:50 minutos
 
-[Nhanderuí Chaa´Pe´Y]
+[Nhanderuí Chaa´Pe´Y] 9:55 minutos 
 
 [Tchái Txana Ixã]:https://www.youtube.com/watch?v=xvwEU7d-8LU
 
 [Ailton Krenak]:https://www.youtube.com/shorts/1FALODzvyVo
 
-[Naga Baba Rampuri Ji]:https://www.youtube.com/watch?v=IFM-4slItSc
-
 [Swami SarvaPryAnanda]:https://www.youtube.com/shorts/sol2nhhVNts
+
+[Sri Mahant Naga Baba Rampuri Ji]:https://www.youtube.com/watch?v=IFM-4slItSc
 
 [Nhanderuí Chaa´Pe´Y]:https://www.youtube.com/watch?v=UakzF88KqiM
 
