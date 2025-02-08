@@ -15,6 +15,8 @@ title: Links
 
 [Ian Carrol] 42 segundos
 
+[Donald Hoffman] 48 segundos
+
 [Tchái Txana Ixã]:https://www.youtube.com/watch?v=xvwEU7d-8LU
 
 [Ailton Krenak]:https://www.youtube.com/shorts/1FALODzvyVo
@@ -27,6 +29,9 @@ title: Links
 
 [Ian Carrol]:https://www.youtube.com/shorts/Ljbr9xRNrF8
 
+[Donald Hoffman]:https://www.youtube.com/shorts/vddcsnSz6nU
+
+
 {% comment %}
 entrevista txana Ixa
 [Tchái Txana Ixã]:https://www.youtube.com/watch?v=LCO1GyQUJzg
@@ -34,3 +39,5 @@ entrevista txana Ixa
 Entrevista Krenak
 [Ailton Krenak]:https://www.youtube.com/watch?v=GIz0hRuRXqc
 {% endcomment %}
+
+
