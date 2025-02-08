@@ -11,7 +11,9 @@ title: Links
 
 [Sri Mahant Naga Baba Rampuri Ji] 4:50 minutos
 
-[Nhanderuí Chaa´Pe´Y] 9:55 minutos 
+[Nhanderuí Chaa´Pe´Y] 9:55 minutos
+
+[Ian Carrol] 42 segundos
 
 [Tchái Txana Ixã]:https://www.youtube.com/watch?v=xvwEU7d-8LU
 
@@ -23,6 +25,8 @@ title: Links
 
 [Nhanderuí Chaa´Pe´Y]:https://www.youtube.com/watch?v=UakzF88KqiM
 
+[Ian Carrol]:https://www.youtube.com/shorts/Ljbr9xRNrF8
+
 {% comment %}
 entrevista txana Ixa
 [Tchái Txana Ixã]:https://www.youtube.com/watch?v=LCO1GyQUJzg
@@ -30,5 +34,3 @@ entrevista txana Ixa
 Entrevista Krenak
 [Ailton Krenak]:https://www.youtube.com/watch?v=GIz0hRuRXqc
 {% endcomment %}
-
-
