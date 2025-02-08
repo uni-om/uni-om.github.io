@@ -7,6 +7,8 @@ title: Links
 
 [Ailton Krenak]
 
+[Swami SarvaPryAnanda]
+
 [Naga Baba Rampuri Ji]
 
 [Nhanderuí Chaa´Pe´Y]
@@ -16,6 +18,8 @@ title: Links
 [Ailton Krenak]:https://www.youtube.com/shorts/1FALODzvyVo
 
 [Naga Baba Rampuri Ji]:https://www.youtube.com/watch?v=IFM-4slItSc
+
+[Swami SarvaPryAnanda]:https://www.youtube.com/shorts/sol2nhhVNts
 
 [Nhanderuí Chaa´Pe´Y]:https://www.youtube.com/watch?v=UakzF88KqiM
 
