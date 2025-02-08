@@ -19,12 +19,12 @@ title: Links
 
 [Nhanderuí Chaa´Pe´Y]:https://www.youtube.com/watch?v=UakzF88KqiM
 
-<% coment %>
+<% comment %>
 entrevista txana Ixa
 [Tchái Txana Ixã]:https://www.youtube.com/watch?v=LCO1GyQUJzg
 
 Entrevista Krenak
 [Ailton Krenak]:https://www.youtube.com/watch?v=GIz0hRuRXqc
-<% endcoment %>
+<% endcomment %>
 
 
