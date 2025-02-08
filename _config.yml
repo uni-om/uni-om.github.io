@@ -51,6 +51,9 @@ github_username:  uni-om
 theme: minima
 plugins:
   - jekyll-feed
+# Redes Sociais
+social:
+  whatsapp: https://chat.whatsapp.com/HBP88cz6ERI7H1fFZ45ZZa
 
 # Exclude from processing.
 # The following items will not be processed, by default.
