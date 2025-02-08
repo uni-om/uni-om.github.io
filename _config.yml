@@ -47,10 +47,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AztlanDon
 github_username:  uni-om
 
-# Redes Sociais
-social:
-  whatsapp: https://chat.whatsapp.com/HBP88cz6ERI7H1fFZ45ZZa
-
 # Build settings
 theme: minima
 plugins:
