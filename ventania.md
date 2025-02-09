@@ -1,6 +1,6 @@
 ---
-layout: default
+layout: page
 title: "Lista Ventania"
 ---
 
-teste md layout default
+teste md layout page
