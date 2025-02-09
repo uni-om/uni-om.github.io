@@ -59,7 +59,7 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 [Jekyll]:    https://jekyllrb.com/
 [Ruby]:      https://www.ruby-lang.org/pt/
 [GitHub]:    https://github.com/github
-[Duck.ai]:    https://duck.ai
+[Duck.ai]:   https://duck.ai
 {% comment %} 
  [Pistas do Caminho]: https://pistasdocaminho.blogspot.com/   
 {% endcomment %}
