@@ -3,7 +3,7 @@ layout: page
 title: "Lista Ventania"
 ---
 
-<h1>Textos Disponíveis 5</h1>
+<h1>Textos Disponíveis</h1>
 
 <ul>
 {% for file in site.pages %}
