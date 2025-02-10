@@ -1,0 +1,11 @@
+<header>
+    <nav>
+      <ul>
+        {% for page in site.pages %}
+          {% unless page.hidden %}
+            <li><a href="{{ page.url | relative_url }}">{{ page.title | escape }}</a></li>
+          {% endunless %}
+        {% endfor %}
+      </ul>
+    </nav>
+  </header>
