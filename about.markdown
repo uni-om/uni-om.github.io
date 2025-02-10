@@ -4,6 +4,39 @@ title: Sobre
 permalink: /about/
 ---
 
+<center>
+<p>ॐ</p>
+<p>सु स्व आगतं</p>
+<p>Su Sua Āgatam</p>
+<p>Super Sua Chegança</p>
+<p>Super Cheguem Mais</p>
+</center>
+&emsp;Quando Shakia Muni disse que de tempos em tempos aparece um arhat, ou seja, um vencedor, ninguém perguntou:
+<br /><br />&emsp;-“Venceu o que?”
+<br /><br />&emsp;Da mesma forma que quando disse: “De tempos em tempos aparece um Tath Āgata” - ou seja, alguém que foi lá, ninguém perguntou:
+<br /><br />&emsp;-“Lá onde?”
+<br /><br />&emsp;Nada mais natural do que isto, pois quem busca não sabe o que busca, caso contrário não estaria buscando, pois já saberia e então não mais buscaria.
+<br /><br />&emsp;Por este motivo fazemos questão de informar em alto e bom tom que:
+<br />&emsp;“Trilhar o caminho é diferente de Falar sobre o Caminho”
+<br /><br />&emsp;Que caminho?
+<br /><br />&emsp;O caminho que leva lá onde Shakia Muni foi. Assim como Išhô, Patanjali, Adi Shankara Acharya, LaoZi (老子), Confúcio (Kǒngzǐ 孔子), Nagarjuna, Shinran Shonin (親鸞), Onisaburo Deguchi (出口 王仁三郎), nawal Don Juan Matus Flores, nawal Dr. Carlos Aranha Castañeda e Sri Mahant Naga Baba Rampuri Ji para citar alguns poucos, pois poderíamos encher páginas e mais páginas com nomes de arhats e tathagatas.
+<br /><br />&emsp;Muitas pessoa nos levam a mal quando dizemos que “Trilhar o caminho é diferente de Falar sobre o Caminho”, pois preferem acreditar que estamos adotando uma postura intransigente, dogmática e exclusivista. Tentando assim, afastar de forma dissimulada, quem se aproxima de nós apenas para saciar a curiosidade intelectual, ou para o convívio social ou até mesmo em busca de uma benção.
+<br /><br />&emsp;Nada poderia ser mais falso do que essa leitura estereotipada.
+Quando dizemos que Trilhar o caminho é diferente de Falar sobre o Caminho estamos emitindo um sinal de alerta, um aviso de perigo.
+<br /><br />&emsp;Estamos dizendo: "Cuidado! Vocês não sabem quem são essas personalidades da totalidade que se passam por pessoas, as quais são frequentemente colocadas em pedestais pelos leigos. Assim como não sabem o caminho pelo qual elas transitam. Se vocês soubessem jamais se aproximariam e colocariam em risco o status quo de suas vidas e jamais permitiriam se colocar em uma situação que inevitavelmente opera no sentido de pulverizar a ideia, que vocês tem de si mesmos, uma crença que de tão familiar e muitas vezes reconfortante, dificilmente é colocada sob escrutínio, muito menos deliberadamente combatida, desmontada, e destruída de forma total, completa, absoluta e irrestrita.
+<br /><br />&emsp;Todas as facetas do caminho verdadeiro, como o Toltecayolt, o xamanismo guerreiro, o Advaita Vedanta, o Arya Ashta Marga e o Dao / Tao (道),ou simplesmente caminho, nada mais são do que aquiescer aquilo que já, e para isso acontecer se faz necessário destruir / eliminar aquilo que impede que o imanente se manifeste em sua totalidade. Para se construir o edifício da totalidade em um terreno, primeiro se faz necessário destruir a casa velha, pequena e antiquada que está ocupando tal terreno.
+<br /><br />&emsp;Portanto, Cuidado! Aqui neste compêndio de textos online tratamos sobre práticas eficazes que levam a tal autodestruição. Não se permitam iludir-se com as odes que os leigos cantam sobre aqueles que travaram uma batalha mortal pelo ser e sairam vitoriosos.
+<br /><br />&emsp;Ao acessar o material aqui contido, por favor façam uma pergunta a si:
+<br /><br />&emsp;"Quero destruir o 'EU'? "
+<br /><br />&emsp;Em caso negativo saiba que você é recebido com o mesmo cuidado e reconhecimento daquelas pessoas que responderam sim a pergunta a cima.
+<br /><br />&emsp;Apenas recomendamos evitar as práticas citadas no material aqui presente.
+<br /><br />&emsp;O caminho pressupõe assumir a responsabilidade por si mesmo, e nós
+não estamos disponíveis para assumir a responsabilidade por pessoas descuidadas que por alguma razão se sujeitaram a práticas que levam a destruição do "EU" e do status quo sem o compromisso de assumirem a responsabilidade por si mesmas.
+<br />&emsp;&emsp;&emsp;&emsp;&emsp;Uni<br />
+_________________________________________________________________
+<br /><br />
+
+
 &emsp;Aqui se encontram reunidos os materiais publicados no ciberespaço por Nuvem Que Passa / Cavalo de Fogo / Alex Sed Rex.
 Muitas personalidades da totalidade se empenharam com afinco para reunir todo este material, em especial: a Nyon, o Dryad e o F.A.
 
@@ -59,7 +92,7 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 [Jekyll]:    https://jekyllrb.com/
 [Ruby]:      https://www.ruby-lang.org/pt/
 [GitHub]:    https://github.com/github
-[Duck.ai]:   https://duck.ai
+[Duck.ai]:    https://duck.ai
 {% comment %} 
  [Pistas do Caminho]: https://pistasdocaminho.blogspot.com/   
 {% endcomment %}
