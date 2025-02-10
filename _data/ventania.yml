@@ -1,7 +1,6 @@
-- title: "Text 1"
-#    url: "/_data/ventania/ventania_1.md"
-    content: "Esse é o texto 1"
+- name: "Uni"
+    sex: "none"
 
-- title: "Text 2"
-#    url: "/_data/ventania/ventania_2.md"
-    content: "Esse é o texto 2"
+- name : "maria"
+    sex : "female"
+    
