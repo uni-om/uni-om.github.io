@@ -28,7 +28,7 @@ Quando dizemos que Trilhar o caminho é diferente de Falar sobre o Caminho estam
 <br /><br />&emsp;Portanto, Cuidado! Aqui neste compêndio de textos online tratamos sobre práticas eficazes que levam a tal autodestruição. Não se permitam iludir-se com as odes que os leigos cantam sobre aqueles que travaram uma batalha mortal pelo ser e sairam vitoriosos.
 <br /><br />&emsp;Ao acessar o material aqui contido, por favor façam uma pergunta a si:
 <br /><br />&emsp;"Quero destruir o 'EU'? "
-<br /><br />&emsp;Em caso negativo saiba que você é recebido com o mesmo cuidado e reconhecimento daquelas pessoas que responderam sim a pergunta a cima.
+<br /><br />&emsp;Em caso negativo saiba que você é recebido com o mesmo cuidado e reconhecimento daquelas pessoas que responderam sim a pergunta acima.
 <br /><br />&emsp;Apenas recomendamos evitar as práticas citadas no material aqui presente.
 <br /><br />&emsp;O caminho pressupõe assumir a responsabilidade por si mesmo, e nós
 não estamos disponíveis para assumir a responsabilidade por pessoas descuidadas que por alguma razão se sujeitaram a práticas que levam a destruição do "EU" e do status quo sem o compromisso de assumirem a responsabilidade por si mesmas.
