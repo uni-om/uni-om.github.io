@@ -1,5 +1,7 @@
 - title: "Text 1"
-    url: "/_data/ventania/ventania_1.md"
+#    url: "/_data/ventania/ventania_1.md"
+    content: "Esse é o texto 1"
 
 - title: "Text 2"
-    url: "/_data/ventania/ventania_2.md"
+#    url: "/_data/ventania/ventania_2.md"
+    content: "Esse é o texto 2"
