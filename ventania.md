@@ -7,7 +7,7 @@ title: "Lista Ventania"
 
 <ul>
 {% for file in site.pages %}
-  {% if file.path contains '_ventania/' %}
+  {% if file.path contains 'ventania/' %}
     <li><a href="{{ file.url }}">{{ file.path | split: '/' | last }}</a></li>
   {% endif %}
 {% endfor %}
