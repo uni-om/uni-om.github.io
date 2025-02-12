@@ -3,7 +3,7 @@ layout: page
 title: Sobre
 permalink: /about/
 ---
-
+<meta property="og:image" content="inf_thu.png"/>
 <center>
 <p>ॐ</p>
 <p>सु स्व आगतं</p>
