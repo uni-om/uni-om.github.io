@@ -52,6 +52,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+collections:
+  listas:
+    output: true
+    permalink: /lista/:path/
+    menu_exclude: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

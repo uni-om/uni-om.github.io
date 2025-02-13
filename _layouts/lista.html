@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.lista.title }}</h1>
+    <p class="post-meta">Data: {{ page.lista.Data_ori }}</p>
+  </header>
+
+  <div class="post-content">
+    {{ page.lista.content | markdownify }}
+  </div>
+  
+  <div class="post-nav">
+    <a href="/ventania.html">← Voltar para Lista Ventania</a>
+  </div>
+</article>

@@ -1,6 +1,9 @@
-ventania:
-  - title: "Text 1"
-    sex: "male"
-  - title: "Text 2"
-    sex: "female"
-    
+- title: "Text 1"
+  name: "ventania_1"
+  sex: "male"
+  url: "/lista/lista_vent_1.md"
+
+- title: "Text 2"
+  name: "ventania_2"
+  sex: "female"
+  url: "/lista/lista_vent_2.md"
