@@ -5,66 +5,90 @@
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   <style>
-
-body {
-    margin: 0;
-    padding: 20px;
-  }
-
-  /* Responsive text sizing */
-  @media screen  {
     body {
-      font-size: 24px;
-      line-height: 1.6;
+      margin: 0;
+      padding: 20px;
     }
-    
-    h1 {
-      font-size: 28px;
+
+    /* Responsive text sizing */
+    @media screen {
+      body {
+        font-size: 24px;
+        line-height: 1.6;
+      }
+      
+      h1 {
+        font-size: 28px;
+      }
+      
+      h2 {
+        font-size: 24px;
+      }
+      
+      h3 {
+        font-size: 22px;
+      }
+      
+      p {
+        font-size: 24px;
+        margin-bottom: 1.2em;
+        white-space: pre-line; /* Preserve line breaks */
+      }
     }
-    
-    h2 {
-      font-size: 24px;
+
+    /* Email-like content formatting */
+    .email-content {
+      white-space: pre-line;
+      font-family: monospace;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
     }
-    
-    h3 {
-      font-size: 22px;
+
+    .email-header {
+      border-bottom: 1px solid #ccc;
+      margin-bottom: 20px;
+      padding-bottom: 10px;
     }
-    
-    p {
-      font-size: 24px;
-      margin-bottom: 1.2em;
+
+    .email-body {
+      margin-bottom: 20px;
     }
-  }
-    /* Remove bullet points and extra padding/margin from the custom navigation menu */
+
+    .email-signature {
+      border-top: 1px solid #ccc;
+      margin-top: 20px;
+      padding-top: 10px;
+    }
+
+    /* Existing navigation styles remain the same */
     .custom-nav ul {
-      list-style-type: none; /* Remove bullet points */
-      padding: 0; /* Remove padding */
-      margin: 0; /* Remove margin */
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
     }
 
     .custom-nav ul li {
-      margin: 0; /* Remove margin from list items */
-      padding: 0; /* Remove padding from list items */
+      margin: 0;
+      padding: 0;
     }
 
-    /* Center the navigation links */
     .navigation {
-      text-align: center; /* Center align the text */
-      margin-top: 20px; /* Add some space above the navigation */
+      text-align: center;
+      margin-top: 20px;
     }
 
     .navigation a {
-      margin: 0 10px; /* Add some space between the links */
+      margin: 0 10px;
     }
 
-    /* Additional links styling */
     .additional-links {
-      text-align: center; /* Center align the text */
-      margin-top: 40px; /* Add more space above the additional links */
+      text-align: center;
+      margin-top: 40px;
     }
 
     .additional-links a {
-      margin: 0 10px; /* Add some space between the links */
+      margin: 0 10px;
     }
   </style>
 </head>
@@ -82,25 +106,28 @@ body {
     </nav>
   </header>
   <main>
-    {{ content }}
+    <div class="email-content">
+      {{ content }}
+    </div>
+
     <div class="navigation">
-        {% assign current_number = page.texto_number %}
-        {% assign current_category = page.category %}
-        {% assign last_number = site.data.escopo[current_category] %}
-        
-        {% if current_number == 1 %}
-          <a href="/indexes/{{ current_category }}.html">← Anterior</a>
-        {% else %}
-          <a href="/textos/{{ current_category }}/{{ current_category }}_{{ current_number | minus: 1 }}.html">← Anterior</a>
-        {% endif %}
-        
-        {% if current_number == last_number %}
-          <a href="/indexes/{{ current_category }}.html" style="margin-left: 20px;">Próximo →</a>
-        {% else %}
-          <a href="/textos/{{ current_category }}/{{ current_category }}_{{ current_number | plus: 1 }}.html" style="margin-left: 20px;">Próximo →</a>
-        {% endif %}
-      </div>
+      {% assign current_number = page.texto_number %}
+      {% assign current_category = page.category %}
+      {% assign last_number = site.data.escopo[current_category] %}
       
+      {% if current_number == 1 %}
+        <a href="/indexes/{{ current_category }}.html">← Anterior</a>
+      {% else %}
+        <a href="/textos/{{ current_category }}/{{ current_category }}_{{ current_number | minus: 1 }}.html">← Anterior</a>
+      {% endif %}
+      
+      {% if current_number == last_number %}
+        <a href="/indexes/{{ current_category }}.html" style="margin-left: 20px;">Próximo →</a>
+      {% else %}
+        <a href="/textos/{{ current_category }}/{{ current_category }}_{{ current_number | plus: 1 }}.html" style="margin-left: 20px;">Próximo →</a>
+      {% endif %}
+    </div>
+    
     <div class="additional-links">
       <a href="/">{{ site.title }}</a>
       <a href="/indexes/{{ current_category }}.html">{{ current_category | capitalize }}</a>
