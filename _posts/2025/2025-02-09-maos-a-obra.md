@@ -4,7 +4,7 @@ title:  "Mãos à Obra!"
 date:   2025-02-09 19:45:08 -0300
 categories: jekyll update
 ---
-A medida que formos subindo mais conteúdo para a Nuvem, informaremos através dos posts nesta sessão de posts que pode ser acessada ao clicar o link Di-Fusão Now All acima ou através do link [https://uni-om.github.io](/https://uni-om.github.io) . Se inscreva no RSS para receber as novidades, ou então acesse esta página para ver se há novidades. Os respectivos links para as diferentes seções de conteúdo se encontram no cabeçalho à cima na direita ou então no ícone ☰ (*hambúrger*) no canto direito superior.
+A medida que formos subindo mais conteúdo para a Nuvem, informaremos através dos posts nesta sessão de posts que pode ser acessada ao clicar o link Di-Fusão Now All acima ou através do link [Di-Fusão Now All] . Se inscreva no RSS para receber as novidades, ou então acesse esta página para ver se há novidades. Os respectivos links para as diferentes seções de conteúdo se encontram no cabeçalho à cima na direita ou então no ícone ☰ (*hambúrger*) no canto direito superior.
 
 {::comment}
 
@@ -37,3 +37,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 [uni-om]:      https://github.com/uni-om
+[Di-Fusão Now All]: https://uni-om.github.io/
