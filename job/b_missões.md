@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Sessão Secreta🤫"
+title: "Seção Secreta🤫"
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;O véio nawal Lêco Sed Réco deixou uns *job* pá nóis;
