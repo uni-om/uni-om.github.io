@@ -1,25 +1,9 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
 title: Di-fusão Now All
 email: uni.om@aol.com
+
 description: >- # this means to ignore newlines until "baseurl:"
   Textos que chegaram através do homem nawal,
   nahualli, arhat, tathāgata, jīvanmukti, yogi, sidha,
@@ -31,50 +15,58 @@ description: >- # this means to ignore newlines until "baseurl:"
   言霊 , 言魂, mushin, 無心 , Wu wei,  無為 , Dainichi Nyorai,
   大日如来, ratna trayaya, chatur arya satya, budha, sat chit ananda,
   brahman, Oomoto sume oomikami, 大天主太神, sanatana dharma,
-  dharmapāla, Gopala, Kavi, Pir, Rishi, Muni, Chakravartin,
-  Sumera Mikoto, 天子, 天命, 天下, Dhammacakka, Prajapati, Avalokiteśvara
+  dharmapāla, Gopala, Kavi, Pir, Rishi, Muni, Dhammacakka,
   liberdade, aventura, vida longa, ॐ
 
+# Navigation settings
+navigation:
+  - title: "Di-Fusão Now All"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Posts"
+    url: /posts/
+  - title: "Links"
+    url: /links/
+  - title: "ventania"
+    url: /indexes/ventania/
+  # - title: "index 2"
+  #   url: /indexes/index2/
+  # - title: "index 3"
+  #   url: /indexes/index3/
+  # - title: "index 4"
+  #   url: /indexes/index4/
+  # - title: "index 5"
+  #   url: /indexes/index5/
+  # - title: "index 6"
+  #   url: /indexes/index6/
+  # - title: "index 7"
+  #   url: /indexes/index7/
+  # - title: "index 8"
+  #   url: /indexes/index8/
+  # - title: "index 9"
+  #   url: /indexes/index9/
+  # - title: "index 10"
+  #   url: /indexes/index10/
 
+# Collections
+collections:
+#  articles:
+#    output: true
+#    permalink: /textos/:path/
+  indexes:
+    output: true
+    permalink: /indexes/:path/
 
-
- # (You can edit this
- # line in _config.yml. It will appear in your document head meta (for
- # Google search results) and in your feed.xml site description.
-  
+# Minima theme settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AztlanDon
-github_username:  uni-om
+github_username: uni-om
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-
-collections:
-  listas:
-    output: true
-    permalink: /lista/:path/
-    menu_exclude: true
-
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - jekyll-paginate-v2
+  - jekyll-sitemap
