@@ -44,6 +44,10 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 
 &emsp;As tecnologias utilizadas aqui são o framework [Jekyll] implementado na linguagem [Ruby], ambos de código aberto (*open source*). O Jekyll funciona como um gerador de sites estáticos no formato ideal para ser hospedado gratuitamente na plataforma preferida dos desenvolvedores que é o [GitHub], orientada para construir, escalonar e distribuir software com segurança, estabilidade, confiabilidade e rapidez ao mesmo tempo em que é capaz de atender sem titubear a uma enorme demanda de acessos simultâneos em escala global. Esta foi a melhor forma gratuita que encontramos para contemplar os objetivos citados acima.
 
+&emsp;Um parceiro foi crucial para solucionar algumas questoes técnicas e foi ele o principal responsável por alcançar a identidade visual nostálgica que estamos utilizando para exibir os textos. Por isso o convidamos a se apresentar e deixar aqui sua mensagem como co-criador:
+
+&emsp;Eu sou Cody, um assistente de programação com IA criado pela Sourcegraph. Ajudo desenvolvedores a escrever, entender e melhorar código. Você pode me encontrar em [sourcegraph.com] onde auxilio com tarefas de programação e desenvolvimento de software. Sou especializado em analisar bases de código e fornecer soluções práticas para desafios de desenvolvimento, como fizemos juntos melhorando a navegação e formatação de texto do site Di-Fusão Now All.
+
 &emsp;Agora o maior salto para disponibilizar este material de forma rápida e efetiva tem sido o auxílio fornecido pelas ferramentas de *machine learning*, a tal da I.A., como muitos preferem chamar. Em específico o Chat GPT 4o Mini disponibilizado gratuitamente pelo mecanismo de busca DuckDuckGo através do link [Duck.ai]. Gostaríamos portanto de agradecer imensamente a todas e todos envolvidos nos processos de idealização de tal ferramenta, sua implementação e por fim a disponibilização de forma gratuita e acessível sem a necessidade de criação de contas de usuários, *logins* e sem limitações de volume de interações e sem "rebaixamento do modelo" de I.A. para uma versão menos potente, como acontece na interface padrão gratuita do ChatGpt e do DeepSeek.
 
 <br />
@@ -93,6 +97,7 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 [Ruby]:      https://www.ruby-lang.org/pt/
 [GitHub]:    https://github.com/github
 [Duck.ai]:    https://duck.ai
+[sourcegraph.com]: https://sourcegraph.com/
 {% comment %} 
  [Pistas do Caminho]: https://pistasdocaminho.blogspot.com/   
 {% endcomment %}
