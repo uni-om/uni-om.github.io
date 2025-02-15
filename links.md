@@ -3,6 +3,7 @@ layout: page
 title: Links
 ---
 
+
 [Tchái Txana Ixã] 50 segundos
 
 [Ailton Krenak]   59 segundos
@@ -20,6 +21,8 @@ title: Links
 [Taisha Abelar] 48:43 minutos
 
 [Nyei Murez] 2:34 horas
+
+[Para Você] 148 Áudios Ilustrados pelo Corvo Seco
 
 
 
@@ -40,6 +43,8 @@ title: Links
 [Taisha Abelar]:https://www.youtube.com/watch?v=aej8oHv9F74
 
 [Nyei Murez]:https://www.youtube.com/watch?v=M4bFRjVzdD0
+
+[Para Você]:https://www.youtube.com/playlist?list=PLRs439TDVSngZCKRVxv9S6mVd0Kx63U2U
 
 {% comment %}
 entrevista txana Ixa
