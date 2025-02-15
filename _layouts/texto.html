@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  <style>
+    /* Remove bullet points and extra padding/margin from the custom navigation menu */
+    .custom-nav ul {
+      list-style-type: none; /* Remove bullet points */
+      padding: 0; /* Remove padding */
+      margin: 0; /* Remove margin */
+    }
+
+    .custom-nav ul li {
+      margin: 0; /* Remove margin from list items */
+      padding: 0; /* Remove padding from list items */
+    }
+
+    /* Center the navigation links */
+    .navigation {
+      text-align: center; /* Center align the text */
+      margin-top: 20px; /* Add some space above the navigation */
+    }
+
+    .navigation a {
+      margin: 0 10px; /* Add some space between the links */
+    }
+
+    /* Additional links styling */
+    .additional-links {
+      text-align: center; /* Center align the text */
+      margin-top: 40px; /* Add more space above the additional links */
+    }
+
+    .additional-links a {
+      margin: 0 10px; /* Add some space between the links */
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <nav class="custom-nav">
+      <ul>
+        <li><a href="/">Di-Fusão Now All</a></li>
+        {% for item in site.pages %}
+          {% unless item.nav_exclude %}
+            <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+          {% endunless %}
+        {% endfor %}
+      </ul>
+    </nav>
+  </header>
+  <main>
+    {{ content }}
+    <div class="navigation">
+      {% assign current_number = page.texto_number %}
+      {% assign current_category = page.category %}
+      
+      {% assign previous_texto = site.pages | where: "category", current_category | where: "texto_number", current_number | minus: 1 | first %}
+      {% assign next_texto = site.pages | where: "category", current_category | where: "texto_number", current_number | plus: 1 | first %}
+      
+      {% if previous_texto %}
+        <a href="{{ previous_texto.url | relative_url }}">← Anterior</a>
+      {% else %}
+        <a href="/indexes/{{ current_category }}.html">← Anterior</a>
+      {% endif %}
+      
+      {% if next_texto %}
+        <a href="{{ next_texto.url | relative_url }}" style="margin-left: 20px;">Próximo →</a>
+      {% else %}
+        <a href="/indexes/{{ current_category }}.html" style="margin-left: 20px;">Próximo →</a>
+      {% endif %}
+    </div>
+    <div class="additional-links">
+      <a href="/">{{ site.title }}</a>
+      <a href="/indexes/{{ current_category }}.html">{{ current_category | capitalize }}</a>
+    </div>
+  </main>
+</body>
+</html>
