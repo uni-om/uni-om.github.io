@@ -4,7 +4,7 @@ title:  "Mãos à Obra!"
 date:   2025-02-09 19:45:08 -0300
 categories: jekyll update
 ---
-A medida que formos subindo mais conteúdo para a Nuvem, informaremos através dos posts nesta sessão de posts que pode ser acessada ao clicar o link Di-Fusão Now All acima ou através do link [Di-Fusão Now All] . Se inscreva no RSS para receber as novidades, ou então acesse esta página para ver se há novidades. Os respectivos links para as diferentes seções de conteúdo se encontram no cabeçalho à cima na direita ou então no ícone ☰ (*hambúrger*) no canto direito superior.
+A medida que mais textos forem subindo para a Nuvem, informaremos através dos posts que podem ser acessados ao se clicar no link Di-Fusão Now All acima ou através do link [Di-Fusão Now All] . Se inscreva no RSS para receber as novidades, ou então acesse esta página para ver se há novidades. Os respectivos links para as diferentes seções de conteúdo se encontram no cabeçalho à cima na direita ou então no ícone ☰ (*hambúrger*) no canto direito superior.
 
 {::comment}
 
