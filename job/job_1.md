@@ -34,7 +34,7 @@ Forma correta de  grafar
 
 
 <div style="text-align: center">
-  <span style="font-size: 128px">ܝܫܘܥ ܡܫܝܚܐ</span>
+  <span style="font-size: 98px">ܝܫܘܥ ܡܫܝܚܐ</span>
 </div>
 
 <br/>
