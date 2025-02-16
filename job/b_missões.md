@@ -2,7 +2,7 @@
 layout: page
 title: "Seção Secreta🤫"
 ---
-
+<span style="font-size: 48px">𓆃</span>
 &nbsp;&nbsp;&nbsp;&nbsp;O véio nawal Lêco Sed Réco deixou uns *job* pá nóis;
 Ou melhor dizendo, A Águia🦅, através de sua personalidade
 A Lex Sed Rex DITOU umas ordens 🗣️.
