@@ -31,6 +31,12 @@ Forma correta de  grafar
 <h2>Só tem um pequeno detalhe, em aramaya márrian significa "O Poder".. aqui a gente prefere chamar a 🦅 de "A Poderéia"</h2>
 
 <br />
+
+
+<div style="text-align: center">
+  <span style="font-size: 128px">ܝܫܘܥ ܡܫܝܚܐ</span>
+</div>
+
 <br/>
 <span style="font-size: 28px">[✨m'Ṧhirrá, aquilo que falam do Išhô que deixa 🇮🇱 😡 ](https://www.youtube.com/watch?v=goozdvfmcdo)</span> 
 
