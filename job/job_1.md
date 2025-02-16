@@ -29,3 +29,11 @@ Forma correta de  grafar
 
 <br />
 <h2>Só tem um pequeno detalhe, em aramaya márrian significa "O Poder".. aqui a gente prefere chamar a 🦅 de "A Poderéia"</h2>
+
+<br/>
+<br/>
+<h2 style="text-align: center">✨ Márân Išh'Om'Ṧhirrá ✨</h2>
+<h2 style="text-align: center"> Salaam </h2>
+<h2 style="text-align: center"> Shalom </h2>
+<h2 style="text-align: center"> Šhan Ti </h2>
+<h2 style="text-align: center"> ॐ </h2>
