@@ -49,6 +49,6 @@ Forma correta de  grafar
 <h2 style="text-align: center">𒈗  šar  Ṧhā</h2>
 <h2 style="text-align: center">𒀭𒈗𒆠𒈠𒉡  𓆼𓆷𓇋𓇋𓄿𓄂𓆷𓄿  Xšayaṛšā</h2>
 <h2 style="text-align: center"> Salaam </h2>
-<h2 style="text-align: center"> Shalom </h2>
+<h2 style="text-align: center"> Shlom </h2>
 <h2 style="text-align: center"> Šhān Ti </h2>
 <h2 style="text-align: center"> ॐ </h2>
