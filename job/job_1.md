@@ -38,7 +38,9 @@ Forma correta de  grafar
 </div>
 
 <br/>
-<span style="font-size: 28px">[✨m'Ṧhirrá, aquilo que falam do Išhô que deixa 🇮🇱 😡 ](https://www.youtube.com/watch?v=goozdvfmcdo)</span> 
+<div style="text-align: center">
+    <span style="font-size: 28px"><a href="https://www.youtube.com/watch?v=goozdvfmcdo">✨m'Ṧhirrá, aquilo que falam do Išhô que deixa 🇮🇱 😡</a></span>
+</div>
 
 <br/>
 <br/>
