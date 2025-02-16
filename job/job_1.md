@@ -32,7 +32,7 @@ Forma correta de  grafar
 
 <br/>
 <br/>
-<h2 style="text-align: center">✨ Márân Išh'Om'Ṧhirrá ✨</h2>
+<h2 style="text-align: center">✨ 𓍶Márân Išh'Om'Ṧhirrá𓍶 ✨</h2>
 <h2 style="text-align: center">𒀭𒊏𒀀  ārya</h2>
 <h2 style="text-align: center">𒈗  šar  Ṧhā</h2>
 <h2 style="text-align: center">𒀭𒈗𒆠𒈠𒉡  𓆼𓆷𓇋𓇋𓄿𓄂𓆷𓄿  Xšayaṛšā</h2>
