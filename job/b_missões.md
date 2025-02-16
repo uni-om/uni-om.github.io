@@ -8,12 +8,12 @@ title: "Seção Secreta🤫"
 Ou melhor dizendo, A Águia🦅, através de sua personalidade
 A Lex Sed Rex DITOU umas ordens 🗣️.
 
-&nbsp;&nbsp;&nbsp;&nbsp;O 'eu' não acreditava! Vivia dizendo que ele era louco.
-Mas o 'ser' gostava dele apesar do 'eu' ficar com aquela
+&nbsp;&nbsp;&nbsp;&nbsp;O **'eu'** não acreditava! Vivia dizendo que ele era louco.
+Mas **o 'ser'** gostava dele apesar do **'eu'** ficar com aquela
 lenga lenga, aquela voizinha irritante que falava continuamente
-mesmo sem ter sido convidada.
+mesmo sem ser convidada.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Depois que o 'eu' foi embora, a Dona Águia puxou 'o ser' lá
+&nbsp;&nbsp;&nbsp;&nbsp;Depois que **o 'eu'** foi embora, a Dona Águia puxou 'o ser' lá
 pro escritório dela... e aconteceu um pobrema! O mundo sumiu. Em um
 instante havia mundo🌞🌛✨💫🌌... vasto... populado por uma miríade
 de pirilampos 🌴🦋🐟🐒 e aí.. de repente... havia só o Uni-Verso ♾️,
