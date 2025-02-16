@@ -22,10 +22,10 @@ o/a nawal. O mundo parou! 🚫🌎
 &nbsp;&nbsp;&nbsp;&nbsp;Quando a Chefa Dona Águia devolveu o ser aqui pro Avidya Sagar, aqui
 para o tantra maya, pro livro  do mundo como o brother / Bhrātā Sri Mahant Rampuri gosta de chamar, a primeira reação foi:
 
-    - PQP! O véio nawal era de vdd. As coisas que ele falou p/ 'nóis' era
-    tudo verdade!!!
+    - PQP!O véio nawal era de vdd 😱! As coisas que ele falou p/ 'nóis' era
+    tudo verdade 💥!!!
 
-&nbsp;&nbsp;&nbsp;&nbsp;Talvez vcs. não estejam captando... ele/ELA cantou umas bolas e deixou umas tarefas na época que pareciam tão fora da curva, que nós simplesmente fazíamos de conta que não ouvíamos. Porque na época éramos tão cegos e ingênuos que nao tínhamos a mínima noção que ali era a Águia dando Ordens! A escrita aqui no plural é apenas proforma.. o fia damãe, que na vdde era a própria "Dona Coisa" disfarçada de gente, deixou uma bucha pro uni-corno 🦄 e pras outras personalidades da totalidade que orbitam no entorno.
+&nbsp;&nbsp;&nbsp;&nbsp;Talvez vcs. não estejam captando... ele/ELA cantou umas bolas e deixou umas tarefas na época que pareciam tão fora da curva, que nós simplesmente fazíamos de conta que não ouvíamos. Porque na época éramos tão cegos e ingênuos que nao tínhamos a mínima noção que ali era a Águia dando Ordens! A escrita aqui no plural é apenas proforma.. o fia damãe, que na vdde era a própria "Dona Coisa" disfarçada de gente, deixou uma bucha pro uni-corno 🦄 assim como para as outras personalidades da totalidade no entorno.
 <br />
 <br />
 <h3><strong>&nbsp;&nbsp;&nbsp;&nbsp;JOBS</strong></h3>
