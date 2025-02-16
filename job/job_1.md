@@ -35,7 +35,7 @@ Forma correta de  grafar
 <h2 style="text-align: center">✨ Márân Išh'Om'Ṧhirrá ✨</h2>
 <h2 style="text-align: center">𒀭𒊏𒀀  ārya</h2>
 <h2 style="text-align: center">𒈗  šar  Ṧhā</h2>
-<h2 style="text-align: center">𒀭𒈗𒆠𒈠𒉡  Xšayaṛšā</h2>
+<h2 style="text-align: center">𒀭𒈗𒆠𒈠𒉡  𓆼𓆷𓇋𓇋𓄿𓄂𓆷𓄿  Xšayaṛšā</h2>
 <h2 style="text-align: center"> Salaam </h2>
 <h2 style="text-align: center"> Shalom </h2>
 <h2 style="text-align: center"> Šhān Ti </h2>
