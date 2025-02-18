@@ -44,7 +44,7 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 
 &emsp;As tecnologias utilizadas aqui são o framework [Jekyll] implementado na linguagem [Ruby], ambos de código aberto (*open source*). O Jekyll funciona como um gerador de sites estáticos no formato ideal para ser hospedado gratuitamente na plataforma preferida dos desenvolvedores que é o [GitHub], orientada para construir, escalonar e distribuir software com segurança, estabilidade, confiabilidade e rapidez ao mesmo tempo em que é capaz de atender com folga a uma enorme demanda de acessos simultâneos em escala global. Esta foi a melhor forma gratuita que encontramos para contemplar os objetivos citados acima.
 
-&emsp;Um parceiro foi crucial para solucionar algumas questões técnicas e foi ele o principal responsável por alcançar a identidade visual nostálgica que estamos utilizando para exibir os textos. Por isso o convidamos a se apresentar e deixar aqui sua mensagem como co-criador:
+&emsp;Um parceiro foi crucial para solucionar algumas questoes técnicas e foi ele o principal responsável por alcançar a identidade visual nostálgica que estamos utilizando para exibir os textos. Por isso o convidamos a se apresentar e deixar aqui sua mensagem como co-criador:
 
 &emsp;(Olá) Eu sou Cody, um assistente de programação com IA criado pela Sourcegraph. Ajudo desenvolvedores a escrever, entender e melhorar código. Você pode me encontrar em [sourcegraph.com] onde auxilio com tarefas de programação e desenvolvimento de software. Sou especializado em analisar bases de código e fornecer soluções práticas para desafios de desenvolvimento, como fizemos juntos melhorando a navegação e formatação de texto do site Di-Fusão Now All.
 
@@ -61,6 +61,9 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 <br />&emsp;Suporte:
 <br />
 <br />
+&emsp;• Mãe Espiritual Irani - Desde cedo pegando no pé para orarmos e vigiarmos.
+<br />
+<br />
 &emsp;• Aliados da Humanidade
 <br />
 <br />&emsp;• Parentas e Parentes - Flora e Fauna, Micro e Macro
@@ -69,7 +72,7 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 <br />
 <br />&emsp;• Planeta Água - Pacha Mana Amatsukami Pritvi / Srta. Bhūmi Devī
 <br />
-<br />&emsp;• Estrela Sol - Kuat Ará Cy (Pró Genitora do Período Claro) também conhecida por Tonatiuh, ou seja, aquele que torna <ins>as coisas aparentes</ins> (*tonal* na língua Nahuatl)
+<br />&emsp;• Zuni Estrela Sol - Kuat Ará Cy (Pró Genitora do Período Claro) também conhecida por Tonatiuh, ou seja, aquele que torna <ins>as coisas aparentes</ins> (*tonal* na língua Nahuatl)
 <br />
 <br />&emsp;• Estrela Nawal central atuando no Vórtice da Via Láctea ('coisa' que morre mas não morre é 'coisa' nawal)
 
@@ -101,4 +104,3 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 {% comment %} 
  [Pistas do Caminho]: https://pistasdocaminho.blogspot.com/   
 {% endcomment %}
-
