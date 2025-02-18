@@ -32,6 +32,9 @@ Forma correta de  grafar
 
 <br />
 
+<span style="font-size: 28px"> O termo Maran é exatamente o mesmo que o termo Mahá em Daiv Vak ou Arsha Bahasa (Samskrit / samskritam / sama krit é a escrita e não o nome da língua, e não importa o que os acadêmico do modelito eurôcentrico digam ou pensem). Na mesma linha do Maran /mahá temos os Mahant e Mahatma, assim como o Maha Raj, de onde tiramos o nome marajá. Mas o interessante aqui é que: Em aramaico siríaco, "Maryan" pode ser entendido como a declinação masculina ou articulação de "Maran", com ambos os termos refletindo respeito e honra dentro da tradição aramaica siríaca. Ou Seja, Maryam / Márriân é um título e não um nome próprio. Não caiam no papinho sombrio da Castrólica Impostólica, bando de assassinos torturadores, terroristas e genocidas.
+
+<br />
 
 <div style="text-align: center">
   <span style="font-size: 78px">ܡܪܢ ܝܫܘܥ ܡܫܝܚܐ</span>
