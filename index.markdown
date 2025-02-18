@@ -4,6 +4,7 @@
 
 layout: home
 ---
+<style>
 body {
   background-image: url('/assets/images/bg-cc.png');
   background-attachment: fixed;
