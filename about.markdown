@@ -19,7 +19,7 @@ permalink: /about/
 <br /><br />&emsp;Por este motivo fazemos questão de informar em alto e bom tom que:
 <br />&emsp;“Trilhar o caminho é diferente de Falar sobre o Caminho”
 <br /><br />&emsp;Que caminho?
-<br /><br />&emsp;O caminho que leva lá onde Shakia Muni foi. Assim como Išhô, Patanjali, Adi Shankara Acharya, LaoZi (老子), Confúcio (Kǒngzǐ 孔子), Nagarjuna, Shinran Shonin (親鸞), Onisaburo Deguchi (出口 王仁三郎), nawal Don Juan Matus Flores, nawal Dr. Carlos Aranha Castañeda e Sri Mahant Naga Baba Rampuri Ji para citar alguns poucos, pois poderíamos encher páginas e mais páginas com nomes de arhats e tathagatas.
+<br /><br />&emsp;O caminho que leva lá onde Shakia Muni foi. Assim como Išhô (ܝܫܘܥ), Patanjali, Adi Shankara Acharya, LaoZi (老子), Confúcio (Kǒngzǐ 孔子), Nagarjuna, Shinran Shonin (親鸞), Onisaburo Deguchi (出口 王仁三郎), nawal Don Juan Matus Flores, nawal Dr. Carlos Aranha Castañeda e Sri Mahant Naga Baba Rampuri Ji para citar alguns poucos, pois poderíamos encher páginas e mais páginas com nomes de arhats e tathagatas.
 <br /><br />&emsp;Muitas pessoa nos levam a mal quando dizemos que “Trilhar o caminho é diferente de Falar sobre o Caminho”, pois preferem acreditar que estamos adotando uma postura intransigente, dogmática e exclusivista. Tentando assim, afastar de forma dissimulada, quem se aproxima de nós apenas para saciar a curiosidade intelectual, ou para o convívio social ou até mesmo em busca de uma benção.
 <br /><br />&emsp;Nada poderia ser mais falso do que esta leitura estereotipada.
 Quando dizemos que Trilhar o caminho é diferente de Falar sobre o Caminho estamos emitindo um sinal de alerta, um aviso de perigo.
