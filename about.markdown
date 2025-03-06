@@ -85,9 +85,6 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 <br />&emsp;Nas Comportas Segurando a Onda:
 <br />&emsp;• LuxCia & F.A. {% comment %}[Pistas do Caminho]{% endcomment %}
 
-<br />&emsp;Na Senzala Ralando o Coro:
-<br />&emsp;• ☥ Bella & Hãnú
-
 <br />&emsp;Na Caverna Conspirando na Prática:
 <br />&emsp;• Uni
 
