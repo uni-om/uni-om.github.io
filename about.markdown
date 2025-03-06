@@ -68,9 +68,9 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 <br />
 <br />&emsp;• Parentas e Parentes - Flora e Fauna, Micro e Macro
 <br />
-<br />&emsp;• Avó Lua - Chandra / Srta. Chandika Devī
+<br />&emsp;• Avó Lua - Yaú / Srta. Chandika Devī
 <br />
-<br />&emsp;• Planeta Água - Pacha Mana Amatsukami Pritvi / Srta. Bhūmi Devī
+<br />&emsp;• Planeta Áqua - Pacha Mana 后土 (Houtu) Pritvi / Srta. Bhūmi Devī
 <br />
 <br />&emsp;• Zuni Estrela Sol - Kuat Ará Cy (Pró Genitora do Período Claro) também conhecida por Tonatiuh, ou seja, aquele que torna <ins>as coisas aparentes</ins> (*tonal* na língua Nahuatl)
 <br />
