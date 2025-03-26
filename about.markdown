@@ -83,7 +83,7 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 <br />&emsp;•  梅馬麗亞 Moy Malayá (Maria Cristina Azevedo)
 
 <br />&emsp;Nas Comportas Segurando a Onda:
-<br />&emsp;• LuxCia & F.A. {% comment %}[Pistas do Caminho]{% endcomment %}
+<br />&emsp;• LuxCia & Modak {% comment %}[Pistas do Caminho]{% endcomment %}
 
 <br />&emsp;Cruzando os mares:
 <br />&emsp;• Arsha One Magraum
