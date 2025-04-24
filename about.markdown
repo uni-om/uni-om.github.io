@@ -85,7 +85,7 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 <br />&emsp;Nas Comportas Segurando a Onda:
 <br />&emsp;• LuxCia & Modak {% comment %}[Pistas do Caminho]{% endcomment %}
 
-<br />&emsp;Na Nazi'Lândia, vendo os bichos
+<br />&emsp;Na Nazi'Lândia, vendo os bichos:
 <br />&emsp;• Hitlinho
 
 <br />&emsp;Na Senzala, ralando o courinho:
