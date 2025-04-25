@@ -89,7 +89,7 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 <br />&emsp;• Hitlinho
 
 <br />&emsp;Na Senzala, ralando o courinho:
-<br />&emsp;• Outsider
+<br />&emsp;• OutSider
 
 <br />&emsp;Cruzando os mares:
 <br />&emsp;• Arsha One Magraum
