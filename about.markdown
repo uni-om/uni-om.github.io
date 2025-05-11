@@ -83,7 +83,7 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 <br />&emsp;•  梅馬麗亞 Moy Malayá (Maria Cristina Azevedo)
 
 <br />&emsp;Nas Comportas Segurando a Onda:
-<br />&emsp;• LuxCia & Modak {% comment %}[Pistas do Caminho]{% endcomment %}
+<br />&emsp;• Mushika & Modak {% comment %}[Pistas do Caminho]{% endcomment %}
 
 <br />&emsp;Na Nazi'Lândia, vendo os bichos:
 <br />&emsp;• Hitlinho
