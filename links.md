@@ -8,7 +8,7 @@ title: Links
 
 [Ailton Krenak]   59 segundos
 
-[Swami SarvaPryAnanda] 35 segundos
+[Swami SarvaPryAnanda] 6:17 minutos
 
 [Sri Mahant Naga Baba Rampuri Ji] 4:50 minutos
 
@@ -30,7 +30,7 @@ title: Links
 
 [Ailton Krenak]:https://www.youtube.com/shorts/1FALODzvyVo
 
-[Swami SarvaPryAnanda]:https://www.youtube.com/shorts/sol2nhhVNts
+[Swami SarvaPryAnanda]:https://www.youtube.com/watch?v=DApqQIFP9Ro
 
 [Sri Mahant Naga Baba Rampuri Ji]:https://www.youtube.com/watch?v=IFM-4slItSc
 
