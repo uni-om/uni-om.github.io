@@ -61,11 +61,6 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 <br />&emsp;Suporte:
 <br />
 <br />
-&emsp;• Mãe Espiritual Irani - Desde cedo pegando no pé para orarmos e vigiarmos.
-<br />
-<br />
-&emsp;• Aliados da Humanidade
-<br />
 <br />&emsp;• Parentas e Parentes - Flora e Fauna, Micro e Macro
 <br />
 <br />&emsp;• Avó Lua - Yaú / Srta. Chandika Devī
@@ -76,11 +71,6 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 <br />
 <br />&emsp;• Estrela Nawal central atuando no Vórtice da Via Láctea ('coisa' que morre mas não morre é 'coisa' nawal)
 
-<br />&emsp;No Endossamento Familiar:
-<br />&emsp;• Lola Guerrero
-
-<br />&emsp;No Samba do Crioulo Doido fazendo a ponte entre os Mundos:
-<br />&emsp;•  梅馬麗亞 Moy Malayá (Maria Cristina Azevedo)
 
 <br />&emsp;Nas Comportas Segurando a Onda:
 <br />&emsp;• Mushika & Modak {% comment %}[Pistas do Caminho]{% endcomment %}
@@ -88,8 +78,6 @@ Muitas personalidades da totalidade se empenharam com afinco para reunir todo es
 <br />&emsp;Na Nazi'Lândia, vendo os bichos:
 <br />&emsp;• Hitlinho --->
 
-<br />&emsp;Na Senzala, ralando o courinho:
-<br />&emsp;• OutSider
 
 <br />&emsp;Cruzando os mares:
 <br />&emsp;• Arsha One Magraum
